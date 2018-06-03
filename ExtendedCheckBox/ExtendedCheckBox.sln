@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedCheckBox", "ExtendedCheckBox.csproj", "{386A8928-89DE-4F85-854C-8771CB2056BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{386A8928-89DE-4F85-854C-8771CB2056BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386A8928-89DE-4F85-854C-8771CB2056BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386A8928-89DE-4F85-854C-8771CB2056BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386A8928-89DE-4F85-854C-8771CB2056BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {572E1DDF-9A44-4BD4-98D1-CA998EC0F089}
+	EndGlobalSection
+EndGlobal
